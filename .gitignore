@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Clion project directory
+cmake-build-debug/
+
 # Compiled Object files
 *.slo
 *.lo
