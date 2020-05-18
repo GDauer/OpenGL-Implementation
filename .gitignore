@@ -3,6 +3,7 @@
 
 # Clion project directory
 cmake-build-debug/
+.idea/
 
 # Compiled Object files
 *.slo
